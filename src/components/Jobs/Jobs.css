@@ -1,0 +1,45 @@
+.jobs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.All-jobs h2 {
+    color: #2b665e;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.jobCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid darkgray;
+    margin: 50px;
+}
+
+.jobContent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.jobName{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #2b665e;
+    font-weight: bold;
+}
+
+.jobName p{
+
+}
+
+
+
+

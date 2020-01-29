@@ -1,0 +1,67 @@
+#register-form {
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("http://www.floridaconstructionlegalupdates.com/wp-content/uploads/2014/03/imagesCAH5G0ZT.jpg");
+
+    position: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+
+
+
+}
+
+.register-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 40%;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    border-radius: 20px;
+    background-color: #747171;
+    padding: 20px;
+}
+
+.register-container h3 {
+    font-size: 25px;
+}
+
+#register-form .user-fields {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+    
+}
+
+#register-form .tags-selections {
+    width: 60%;
+
+    scroll-behavior: smooth;
+}
+
+#register-form canvas{
+    z-index: -1 !important;
+}
+
+.regBtn {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: rgb(28, 184, 65);
+    font-size: 120%;
+}

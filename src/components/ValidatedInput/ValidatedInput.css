@@ -1,0 +1,16 @@
+.validated-input {
+    min-width: 200px;
+    min-height: 40px;
+    border-radius: 5px;
+    margin: 5px;
+    outline: none;
+    padding: 0 5px;
+}
+
+.validated-input.invalid::placeholder{
+    color: red;
+}
+
+.validated-input.invalid {
+    border: 1px solid red;
+}
