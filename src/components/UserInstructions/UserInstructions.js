@@ -22,10 +22,10 @@ class UserInstructions extends Component {
                     <br/>
                     <br/>
                     <br/>
-                    {/*<iframe width="500" height="400" src="https://youtu.be/4r0p3apNaBI">*/}
+                    {/*<iframe width="500" height="400" src="">*/}
 
                     {/*</iframe>*/}
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/4r0p3apNaBI" frameBorder="0"
+                    <iframe width="560" height="315" src="https://youtu.be/xXBuevtZkM4" frameBorder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowFullScreen>
 

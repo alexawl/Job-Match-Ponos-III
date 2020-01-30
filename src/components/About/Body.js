@@ -8,14 +8,14 @@ class Body extends Component {
     return (
       <div className="body">
           <br/>
-          <h2>About the founders:</h2>
+          <h2>About the Developers:</h2>
           <div>
               <br/>
-              <strong>Tal Malka </strong>- software engineering student
+              <strong>Alejandro Araya </strong>- Web Developer
               <br/>
-              <strong>Eden Varsulker </strong> - software engineering student
+              <strong>Eden Varsulker </strong> - Web Developer
               <br/>
-              <strong>Hanna Yair </strong>- software engineering student
+              <strong>Hanna Yair </strong>- Web Developer
           </div>
           <br/>
           <br/>

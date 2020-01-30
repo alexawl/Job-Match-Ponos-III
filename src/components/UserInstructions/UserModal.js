@@ -34,8 +34,8 @@ class UserModal extends Component {
                         {/*<button onClick={(e)=>this.pusePlsy(e)}>Play/Pause</button>*/}
                         <br/>
                         <video width="800px" controls>
-                            <source src="https://www.youtube.com/watch?v=EdfatkbDL-o" type="video/mp4"/>
-                            <source src="https://www.youtube.com/watch?v=EdfatkbDL-o" type="video/ogg"/>
+                            <source src="https://youtu.be/xXBuevtZkM4" type="video/mp4"/>
+                            <source src="https://youtu.be/xXBuevtZkM4" type="video/ogg"/>
                             Your browser does not support HTML5 video.
                         </video>
                         {/*<video id="video1" width="420">*/}

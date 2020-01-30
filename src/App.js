@@ -13,7 +13,7 @@ import isAuthenticated from "./components/isAuthenticated";
 import HomeDesign from "./components/HomeDesign/HomeDesign";
 import UserInstructions from "./components/UserInstructions/UserInstructions";
 import Contact from "./components/Contact/Contact";
-import Footer from "./components/common/Footer";
+
 
 function Index() {
     return <h2>Ponos Job Matcher</h2>;
