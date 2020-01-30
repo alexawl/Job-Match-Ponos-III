@@ -39,7 +39,7 @@ class HomeDesign extends Component {
                             Right Person for the Right Job. <br/>
                             Finding the right job or temp assignment that fits your lifestyle..
                         </p>
-
+                    
 
                     </div>
 
@@ -64,8 +64,14 @@ class HomeDesign extends Component {
                                         <div className="col-md-4 col-sm-6">
                                             <div className="single-service wow zoomIn">
                                                 <i className="fa fa-database service-icon"></i>
-                                                <h4 className="service-title">Wide Data Bank</h4>
+                                                <h4 className="service-title">Interview Preparation</h4>
                                                 <p>A wide and varied of employment offers in all fields</p>
+                                                <ul>
+                                                    <li><a href="http://interviewcake.com">InterviewCake</a></li>
+                                                    <li><a href="https://www.pramp.com/#/">Pramp</a></li>
+                                                    <li><a href="https://leetcode.com">LeetCode</a></li>
+                                                    <li><a href="https://www.hackerrank.com">HackerRank</a></li>
+                                                 </ul>
                                             </div>
                                         </div>
                                         {/*end single service*/}
@@ -74,9 +80,14 @@ class HomeDesign extends Component {
                                         <div className="col-md-4 col-sm-6">
                                             <div className="single-service wow zoomIn">
                                                 <i className="fa fa-user-circle service-icon"></i>
-                                                <h4 className="service-title">Building a personal career plan</h4>
-                                                <p>Tracking and managing a customized career timeline for each client<br/>
-                                                based on previous experience in customer's professional field.</p>
+                                                <h4 className="service-title">Local Resources</h4>
+                                                <p>Tracking and managing a customized career timeline for each client.</p>
+                                                           <ul>
+                                                                <li><a href="https://www.4geeksacademy.co/">4Geeks Academy</a></li>
+                                                                <li><a href="">modis</a></li>
+                                                                <li><a href="">xoriant</a></li>
+                                                                <li><a href="">Collabera</a></li>
+                                                           </ul>
                                             </div>
                                         </div>
                                         {/*end single service*/}
@@ -85,11 +96,28 @@ class HomeDesign extends Component {
                                         <div className="col-md-4 col-sm-6">
                                             <div className="single-service wow zoomIn">
                                                 <i className="fa fa-commenting service-icon"></i>
-                                                <h4 className="service-title">Customized Professional Recommends System</h4>
-                                                <p>Based on the client's resume and professional field, <br/>
-                                                    we also offer professional recommendations for studies <br/>
-                                                    in the field.
-                                                </p>
+                                                <h4 className="service-title">Social Media</h4>
+                                                <p>Based on the client's resume and professional field.</p>
+                                                <ul>
+              
+              
+              <li>
+                  <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                <a href="https://www.linkedin.com">LinkedIn</a>
+              </li>
+              <li>
+                  <i class="fa fa-instagram" aria-hidden="true"></i>
+                <a href="https://www.instagram.com">Instagram</a>
+              </li>
+              <li>
+                  <i class="fa fa-twitter-square" aria-hidden="true"></i>
+                  <a href="https://www.twitter.com/">Twitter</a>
+              </li>
+              <li>
+                  <i class="fa fa-flickr" aria-hidden="true"></i>
+                <a href="https://www.flickr.com/">Flickr</a>
+              </li>
+            </ul>
                                             </div>
                                         </div>
                                         {/*end single service*/}
