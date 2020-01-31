@@ -116,7 +116,7 @@ class RegisterForm extends Component {
                     <ValidatedInput onInputChange={this.onInputChange} name="confirmPassword" value={confirmPassword}
                                     type="password" placeholder="Re-enter password" valid={formValid}/>
                 </div>
-                <div className="tags-selections">
+                <div className="tags-selections"   >
                     <br></br>
                     <h4>Fields</h4>
                     <Select

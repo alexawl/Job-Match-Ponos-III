@@ -33,7 +33,7 @@ class HomeDesign extends Component {
                 <section id="home-design">
                     <img className="background-img" src="http://www.luxurycruisenews.com/wp-content/uploads/2017/01/miami-cruises-1.jpg"/>
                     <div className="front">
-                        <h1 className="web-title">Generation Search</h1>
+                        <h1 className="web-title">Task Raider</h1>
                         <p className="description">Trusted and dependable. <br/>
                             Explore your skills. <br/>
                             Right Person for the Right Job. <br/>
@@ -67,10 +67,10 @@ class HomeDesign extends Component {
                                                 <h4 className="service-title">Interview Preparation</h4>
                                                 <p>A wide and varied of employment offers in all fields</p>
                                                 <ul>
-                                                    <li><a href="http://interviewcake.com">InterviewCake</a></li>
-                                                    <li><a href="https://www.pramp.com/#/">Pramp</a></li>
-                                                    <li><a href="https://leetcode.com">LeetCode</a></li>
-                                                    <li><a href="https://www.hackerrank.com">HackerRank</a></li>
+                                                    <li><a href="http://interviewcake.com/" target="_blank">InterviewCake</a></li>
+                                                    <li><a href="https://www.pramp.com/#/" target="_blank">Pramp</a></li>
+                                                    <li><a href="https://leetcode.com" target="_blank">LeetCode</a></li>
+                                                    <li><a href="https://www.hackerrank.com"target="_blank">HackerRank</a></li>
                                                  </ul>
                                             </div>
                                         </div>
@@ -83,7 +83,7 @@ class HomeDesign extends Component {
                                                 <h4 className="service-title">Local Resources</h4>
                                                 <p>Tracking and managing a customized career timeline for each client.</p>
                                                            <ul>
-                                                                <li><a href="https://www.4geeksacademy.co/">4Geeks Academy</a></li>
+                                                                <li><a href="https://www.4geeksacademy.co/" target="_blank">4Geeks Academy</a></li>
                                                                 <li><a href="">modis</a></li>
                                                                 <li><a href="">xoriant</a></li>
                                                                 <li><a href="">Collabera</a></li>

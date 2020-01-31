@@ -25,7 +25,7 @@ class UserInstructions extends Component {
                     {/*<iframe width="500" height="400" src="">*/}
 
                     {/*</iframe>*/}
-                    <iframe width="560" height="315" src="https://youtu.be/xXBuevtZkM4" frameBorder="0"
+                    <iframe width="560" height="315" src="https://youtu.be/xXBuevtZkM4"  frameBorder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowFullScreen>
 
@@ -41,7 +41,7 @@ class UserInstructions extends Component {
                 <div className="help-section">
                     <p>
                         For any other help, please contact us: &nbsp;
-                        <i className="fa fa-envelope-open" aria-hidden="true"></i> &nbsp; PonosJobs@gmail.com<br/>
+                        <i className="fa fa-envelope-open" aria-hidden="true"></i> &nbsp; astponos@gmail.com<br/>
                         <br/>All rights reserved. &nbsp;<i className="fa fa-copyright" aria-hidden="true"></i>
                     </p>
 

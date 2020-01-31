@@ -31,6 +31,7 @@
     text-transform: uppercase;
     font-size: 70px;
     font-weight: bold;
+    text-shadow: 3px 4px 0 rgb(15, 14, 14);
     line-height: 55px;
     font-family: 'Lato' , SansSerif;
 
